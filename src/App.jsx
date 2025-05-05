@@ -15,7 +15,7 @@ export const goodsFromServer = [
   'Garlic',
 ];
 
-const SORT_FIELD_ALPHABETIC = 'alpabetic';
+const SORT_FIELD_ALPHABETIC = 'alphabetic';
 const SORT_FIELD_LENGTH = 'length';
 
 function getPreperedGoods(goods, sortField, isReserved) {
